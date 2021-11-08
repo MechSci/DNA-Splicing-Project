@@ -6,7 +6,7 @@ import java.util.*;
 /**
  * Testing iterator
  * @author ola
- *
+ * @author Ethan Yu
  */
 public class TestIterator {
 	private static IDnaStrand ourStrand;
