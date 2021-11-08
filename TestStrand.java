@@ -11,6 +11,7 @@ import java.util.Iterator;
  * objects being tested.
  * 
  * @author ola
+ * @author Ethan Yu
  * @date January 2008, modified and commented in September 2008
  * @date January 2009, added splice testing
  * @date October 2015, added nodeList
